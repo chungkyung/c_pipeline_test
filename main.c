@@ -2,6 +2,6 @@
 
 int main() {
     printf("Hello Jenkins!\n");
-    //TEST TEST 이충경입니다.
+    //TEST 이충경
     return 0;
 }
