@@ -2,7 +2,6 @@
 
 int main() {
     printf("Hello Jenkins!\n");
-    //출력체크 .
-    //ㄴㄴ
+    //테스트용
     return 0;
 }
