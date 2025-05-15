@@ -1,6 +1,7 @@
 // test_main.c  테스트용 파일
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 int main() {
     int result = system("main.exe > output.txt");
