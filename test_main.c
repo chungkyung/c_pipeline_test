@@ -1,4 +1,4 @@
-// test_main.c
+// test_main.c  테스트용 파일
 #include <stdio.h>
 #include <stdlib.h>
 
